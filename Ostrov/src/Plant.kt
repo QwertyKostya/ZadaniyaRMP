@@ -1,0 +1,1 @@
+data class Plant(var count: Int = 0)
